@@ -1,3 +1,3 @@
-Computer Engineering Student.
-interested in Machine Learning, AI and Data Science.
-Python, Javascript
+👉Computer Engineering Student.
+👉Interested in Machine Learning, AI and Data Science.😊
+👉Python, Javascript
