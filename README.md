@@ -6,7 +6,7 @@
 
 ## I'm a science and tech enthusiast !!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Become a Data Analyst
 - ⚡ Fun fact: I love to listen songs, watch anime and travel
