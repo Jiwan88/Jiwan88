@@ -6,10 +6,10 @@
 
 ## I'm a science and tech enthusiast !!!
 
-- 🌱 I’m currently learning, unlearning and relearning.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a good problem solver!
-- ⚡ Fun fact: I love to listen songs, watch anime and travel
+- 🌱 I’m currently learning, unlearning, and relearning.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2023 Goals: Become a good problem solver!
+- ⚡ Fun fact: I love listening to songs, watching anime, and traveling.
 
 ### Connect with me:
 
