@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning, unlearning, and relearning.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Become a good problem solver!
+- 🥅 2024 Goals: Become a good problem solver!
 - ⚡ Fun fact: I love listening to songs, watching anime, and traveling.
 
 ### Connect with me:
