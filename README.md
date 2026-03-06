@@ -6,10 +6,11 @@
 
 ## I'm a science and tech enthusiast !!!
 
-- 🌱 I’m currently learning, unlearning, and relearning.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2026 Goals: Become a good problem solver!
-- ⚡ Fun fact: I love listening to songs, playing games, reading books,  watching anime, and traveling.
+- 🧩 Solving problems with code and curiosity
+- ⚙️ Exploring algorithms, systems, and how things work behind the scenes
+- 🛠️ Learning by building projects and breaking them apart
+- 🎯 2026 Goal: Become a sharper problem solver
+- 🎧 Life outside code: music, gym, books, anime, philosophy, and travel
 
 ### Connect with me:
 
